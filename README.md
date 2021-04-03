@@ -19,6 +19,8 @@
 ![Java](https://img.shields.io/badge/-Java-F5FFFA?style=flat&logo=Java&logoColor=FF0000)&nbsp;
 ![Selenium](https://img.shields.io/badge/selenium%20-%23013243.svg?&style=flat&logo=selenium&logoColor=brightgreen)&nbsp;
 ![HP UFT](https://img.shields.io/badge/HP%20UFT%20-%23013243.svg?&style=flat&logo=HP&logoColor=blue)&nbsp;
+![Maven](https://img.shields.io/badge/-Maven-FFF5EE?&style=flat&logo=apache%20maven&logoColor=red)&nbsp;
+![TestNG](https://img.shields.io/badge/-TestNG-FFF5EE?&style=flat&logo=java&logoColor=black)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker%20-%23013243.svg?&style=flat&logo=docker&logoColor=blue)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%23013243.svg?&style=flat&logo=kubernetes&logoColor=blue)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-FDF5E6?&style=flat&logo=jenkins&logoColor=FF0000)&nbsp;
