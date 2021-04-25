@@ -15,8 +15,8 @@
   
 ### 🛠  &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-F5FFFA?style=flat&logo=Java&logoColor=FF0000)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Selenium](https://img.shields.io/badge/selenium%20-%23013243.svg?&style=flat&logo=selenium&logoColor=brightgreen)&nbsp;
 ![HP UFT](https://img.shields.io/badge/HP%20UFT%20-%23013243.svg?&style=flat&logo=HP&logoColor=blue)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-FFF5EE?&style=flat&logo=apache%20maven&logoColor=red)&nbsp;
