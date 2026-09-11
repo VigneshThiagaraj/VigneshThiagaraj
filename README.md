@@ -5,7 +5,7 @@
 
 👨🏻‍💻&nbsp;About Me
 
-  👋 Hi, I’m an Automation Test Engineer with 6 years of experience in Web, Windows, Mobile and Mainframe applications automation.
+  👋 Hi, I’m an Automation Test Engineer with 8+ years building automation and data-quality solutions across web, mobile, API and enterprise data platforms.
   
   👀 I’m interested in exploring latest technologies and building new ideas out of them.
   
